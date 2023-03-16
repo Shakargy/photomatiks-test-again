@@ -1,0 +1,31 @@
+.TextCaptions {
+    margin-bottom: 10%;
+ }
+ 
+ .bgImage {
+    filter: blur(1px);
+    -webkit-filter: blur(1px);
+ }
+ 
+ .cardSection {
+    position: relative;
+    bottom: 6rem;
+    text-align: left;
+    line-height: 30px;
+    border-radius: 10px;
+    
+ }
+ .cardSection h5,
+ p {
+    padding-left: 10%;
+    margin-left: 25px;
+    margin-top: 25px;
+ }
+ .cardLogo {
+    margin-top: 25px;
+    margin-right: 25px;
+    float: left;
+  
+    color: #3284f3;
+ }
+ 

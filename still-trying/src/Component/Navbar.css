@@ -1,0 +1,17 @@
+.SectionNavbar {
+    background-color: #111d33;
+    font-weight: bold;
+ }
+ .loginButton {
+    background-color: #333f58;
+    color: #fff;
+ }
+ .registerButton {
+    background-color: #0c6cf2;
+    color: #fff;
+ }
+ .logoButton {
+    background-color: #64a9dc;
+    color: #fff;
+ }
+ 
